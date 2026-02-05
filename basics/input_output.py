@@ -6,9 +6,9 @@ if age<18:
 else:
     print("You are an adult. you can appply for driving licence, please fill the required information carefully.")
     name=input("Please fill the required information:\nName: ")
-    address=input("Adress: ")
+    address=input("Address: ")
     phone=input("Phone number: ")
     print("please wait....")
     time.sleep(4)
-    print("Verified...your driving licence will br post to your adress")
+    print("Verified...your driving licence will br post to your address")
     
