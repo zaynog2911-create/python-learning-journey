@@ -8,6 +8,7 @@ else:
     name=input("Please fill the required information:\nName: ")
     address=input("Adress: ")
     phone=input("Phone number: ")
+    print("please wait....")
     time.sleep(4)
     print("Verified...your driving licence will br post to your adress")
     
